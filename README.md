@@ -1,2 +1,2 @@
 # MapsComparision
-GeoPosition comparision
+GeoPosition comparison
